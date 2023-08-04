@@ -1,0 +1,22 @@
+{
+  "site": {
+    "title": "AVA Carpentry Inc",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "AVA Carpentry"
+  },
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+  },
+  "metadata": {
+    "meta_author": "AVA Carpentry Inc",
+    "meta_image": "",
+    "meta_description": "We have a strong reputation for delivering high quality work on budget and on time. Contact us at the details below."
+  }
+}
